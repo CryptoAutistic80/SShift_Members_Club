@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.coming-soon {
+    margin-top: 50px;
+    font-size: 2em;
+}
